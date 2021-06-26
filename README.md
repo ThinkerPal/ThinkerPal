@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Some cool stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinkerPal&count_private=true&show_icons=true&theme=shades-of-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ThinkerPal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinkerPal&count_private=true&show_icons=true&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
